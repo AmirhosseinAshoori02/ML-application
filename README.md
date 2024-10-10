@@ -47,23 +47,19 @@ Each model’s performance and important features are visualized in the app. Bel
 
 1. **SVM**
    - **Accuracy**: 70%
-   - ![SVM Visualization](./feature_importance_random_forest.png)
-
 2. **Decision Tree**
    - **Accuracy**: 75%
    - ![Decision Tree Visualization](./Decision_tree.png)
-
+     ![Feature imoportances](./feature_importance_adaboost_decision_tree.png)
 3. **Neural Network**
    - **Accuracy**: 74%
    - ![Neural Network Visualization](./neural_network_structure.png)
-
 4. **KNN**
    - **Accuracy**: 72%
-   - ![KNN Visualization](./feature_importance_adaboost_decision_tree.png)
-
 5. **Random Forest**
    - **Accuracy**: 76%
    - ![Random Forest Visualization](./random_forest.png)
+    ![Feature Imoportances](./feature_importance_random_forest.png)
 
 ### How to Use the Application
 1. **Upload Data**: Start by uploading a CSV file containing customer information.
